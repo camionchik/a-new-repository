@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    font-family: caveat;
+    font-size: 50px;
+    color:darkolivegreen;
+}
+nav a{
+    margin: 40px;
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    border: 1px solid darkolivegreen;
+    background-color: rgb(231, 250, 215);
+    color: darkolivegreen;
+    font-family: cursive;
+    transition-duration: 0.5s;
+    text-align: center;
+}
+a:hover {
+    font-size: 20px;
+    border: 9px double darkolivegreen;
+}
+.yula {
+    position: fixed;
+    top:400px;
+}
+p {
+    text-align: center;
+    padding: 20px;
+    color: darkolivegreen;
+    font-family: cursive;
+}
+span {
+    font-family: caveat;
+}
+.boombaam {
+    font-family:monospace;
+    background-color: #f3f3f3;
+    border: 1px solid darkgrey;
+    border-radius: 3px;
+    padding:5px;
+}
